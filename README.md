@@ -1,66 +1,113 @@
-# Study Abroad Technical Consultation & Student Support
+# Project Name
+
+Study Abroad Technical Consultation & Student Support
 
 ---
 
-## Project Idea
-This project develops a digital marketing strategy for a study abroad consultation service targeting Egyptian students.
+# Project Idea
+
+This project focuses on developing a data-driven digital marketing strategy for a study abroad consultation service targeting Egyptian students.
+
+The project addresses key awareness gaps such as misconceptions about affordability, visa difficulty, and application complexity.
+
+The strategy aims to educate, build trust, and guide students through the decision-making process while generating qualified consultation leads.
 
 ---
 
-## Team Members
-- [Team Members File](./00_Team_Members.xlsx)
+# Team Members (pentaRae)
+
+- See full team structure here:
+[Team Members File](./00_Team_Members.xlsx)
 
 ---
 
-## Work Plan
+# Work Plan
 
-### 1. Research & Analysis
-- [Survey Insights & Recommendations](./02_Survey_Insights_Recommendations.xlsx)
-- [SWOT & PESTEL Analysis](./03_SWOT_PESTEL_Analysis.xlsx)
-- [Platform Insights](./09_Platform_Insights.xlsx)
+## 1. Research & Analysis
+- Conducted survey insights analysis to understand audience behavior and misconceptions  
+- Performed SWOT & PESTEL analysis to evaluate internal and external factors  
+- Identified awareness gaps and content opportunities  
 
----
+## 2. Visual Identity
+- Not included in this phase (focus on strategy and content direction)
 
-### 2. Visual Identity
-- In Progress
+## 3. Main Designs
+- Developed content strategy framework including:
+  - Content pillars
+  - Messaging direction
+  - Funnel-based structure
 
----
+## 4. Complementary Products
+- Created a 30-day content calendar including:
+  - Educational content
+  - Student stories
+  - Application guidance
+  - Consultation-driven posts  
 
-### 3. Main Designs
-- In Progress
+- Developed Meta Ads structure:
+  - Awareness campaign
+  - Engagement campaign
+  - Lead generation campaign
+  - Retargeting campaign  
 
----
+## 5. Review & Finalization
+- Conducted awareness gap analysis identifying:
+  - Weak problem framing
+  - Low video usage
+  - Lack of trust-building content  
+- Optimized strategy accordingly
 
-### 4. Complementary Products
-- [Content Calendar](./011_Study%20Abraod%20Content%20Calendar%20Proposal%20for%201%20month%209.3.2026.rtf)
-
----
-
-### 5. Review & Finalization
-- [Awareness Gap Analysis](./010_Study%20Abroad%20Awarness%20Gap%20Identification%20%26%20Actions%207.3.2026.docx)
-
----
-
-### 6. Final Presentation
-- Not included in this phase
-
----
-
-## KPIs
-- Reach & Awareness
-- Engagement
-
----
-
-## Instructor
-Add instructor name here
-
----
-
-## Project Files
-All files are uploaded in this repository and linked above according to the workflow.
+## 6. Final Presentation
+- Built full execution plan including:
+  - Funnel stages
+  - Content distribution
+  - Campaign execution approach
 
 ---
 
-## License
-Educational project submission.
+# Roles & Responsibilities
+
+- Strategy Development
+- Market Research & Analysis
+- Content Planning & Creation
+- Performance & Ads Planning
+
+---
+
+# KPIs (Key Performance Indicators)
+
+- Reach & Awareness Growth  
+- Engagement Rate  
+- Video Views  
+- Lead Generation  
+- Conversion to consultation bookings  
+
+---
+
+# Instructor
+
+[Add Instructor Name]
+
+---
+
+# Project Files
+
+You can find the full project files here:
+
+- Team Members: ./00_Team_Members.xlsx  
+- Strategy Scope: ./01_Service_Strategy_Scope.xlsx  
+- Survey Insights: ./02_Survey_Insights_Recommendations.xlsx  
+- SWOT & PESTEL: ./03_SWOT_PESTEL_Analysis.xlsx  
+- Buyer Persona: ./04_Buyer_Persona.xlsx  
+- Competitors Analysis: ./05_Competitors_Analysis.xlsx  
+- SOSTAC Strategy: ./06_SOSTAC_Strategy.xlsx  
+- Content Strategy: ./07_Content_Strategy.xlsx  
+- Execution Plan: ./012_Study Abroad Service Execution Plan 18.3.2026.xlsx  
+- Awareness Gap Analysis: ./010_Study Abroad Awarness Gap Identification & Actions 7.3.2026.docx  
+- Content Calendar: ./011_Study Abraod Content Calendar Proposal for 1 month 9.3.2026.rtf  
+
+---
+
+# License
+
+This project is submitted for educational purposes.
