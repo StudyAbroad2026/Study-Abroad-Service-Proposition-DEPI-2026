@@ -47,8 +47,6 @@ The strategy aims to educate, build trust, and guide parents and students throug
 - Developed Meta Ads structure:
   - Awareness campaign
   - Engagement campaign
-  - Lead generation campaign
-  - Retargeting campaign  
 
 ## 5. Review & Finalization
 - Conducted awareness gap analysis identifying:
