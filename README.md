@@ -74,8 +74,6 @@ The goal is to simplify the study abroad journey and increase accessibility thro
 - 💬 Engagement Rate: 4% – 6%  
 - 👍 Interactions: 30–50 per post  
 - 📩 Leads: 10–15 inquiries/month  
-- 🚀 Awareness Growth: +30% yearly  
-- 🎯 Qualified Leads Target: 500  
 
 ---
 
