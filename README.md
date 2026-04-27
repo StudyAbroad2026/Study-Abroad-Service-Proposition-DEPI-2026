@@ -17,7 +17,7 @@ The goal is to simplify the study abroad journey and increase accessibility thro
 
 ---
 
-## 👥 Team Members (pentaRae)
+## 👥 Team Members
 
 - Mayar Nabil  
 - Mohamed El Nahas 
